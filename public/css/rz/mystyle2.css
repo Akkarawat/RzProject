@@ -1,0 +1,42 @@
+#root {
+	background-color: #CCCCCC;
+	position: absolute;
+	width: 100%;
+	min-width: 1275px;  
+	padding-left: 40px;
+	padding-top: 20px;
+}
+
+.tab-pane{
+	
+}
+
+span.stepDisplay{
+	position: absolute;
+	left: 30px;
+}
+
+span.pcDisplay{
+	position: absolute;
+	left: 90px;
+}
+
+span.opDisplay{
+	position: absolute;
+	left: 150px;
+}
+
+span.paraDisplay{
+	position: absolute;
+	left: 190px;
+}
+
+span.acDisplay{
+	position: absolute;
+	left: 220px;
+}
+
+span.regDisplay{
+	position: absolute;
+	left: 300px;
+}
